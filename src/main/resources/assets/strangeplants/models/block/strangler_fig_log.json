@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "strangeplants:block/strangler_fig_log_top",
+        "side": "strangeplants:block/strangler_fig_log"
+    }
+}
